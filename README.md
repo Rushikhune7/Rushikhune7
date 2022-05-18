@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rushi khune
-- 👀 I’m interested in Python programming language
+- 👀 I’m interested in Python programming language and data science
 - 🌱 I’m currently learning B.E. in mechanical field
-- 💞️ I’m looking to collaborate on python development
+- 💞️ I’m looking to collaborate on Data science
 - 📫 How to reach me rushikhune77@gmail.com / 7030723390
 
 <!---
